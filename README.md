@@ -9,12 +9,6 @@
   </p>
 </div>
 
-<p align="center">
-  <img alt="Zed Extension" src="https://img.shields.io/badge/Zed-v0.1.0-34D8FF?style=for-the-badge&logo=zed">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
-</p>
-
----
 
 ## About The Project
 
