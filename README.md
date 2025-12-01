@@ -24,17 +24,8 @@ This extension packs five distinct theme variations to match your preference:
 -   **Xenongit**: A remap inspired by the GitHub Dark theme.
 -   **Xenozed**: A remap based on the Solarized Dark philosophy.
 
-## Previews
-
-> **Note:** Please replace these placeholder images with actual screenshots of the themes in action!
-
-| Xenon                                                                                               | OneXenon                                                                                                 |
-| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| <img src="https://via.placeholder.com/800x400.png?text=Xenon+Preview" alt="Xenon Theme Preview">       | <img src="https://via.placeholder.com/800x400.png?text=OneXenon+Preview" alt="OneXenon Theme Preview">     |
-| **Xenokai**                                                                                         | **Xenongit**                                                                                             |
-| <img src="https://via.placeholder.com/800x400.png?text=Xenokai+Preview" alt="Xenokai Theme Preview">   | <img src="https://via.placeholder.com/800x400.png?text=Xenongit+Preview" alt="Xenongit Theme Preview">     |
-| **Xenozed**                                                                                         |
-| <img src="https://via.placeholder.com/800x400.png?text=Xenozed+Preview" alt="Xenozed Theme Preview">   |
+## Preview
+<img width="1376" height="712" alt="image" src="https://github.com/user-attachments/assets/4c8bdf8d-9808-4098-831a-72b131a81f7d" />
 
 ## Installation
 
