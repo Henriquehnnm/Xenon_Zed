@@ -25,7 +25,7 @@ This extension packs five distinct theme variations to match your preference:
 -   **Xenozed**: A remap based on the Solarized Dark philosophy.
 
 ## Preview
-<img width="1376" height="712" alt="image" src="https://github.com/user-attachments/assets/4c8bdf8d-9808-4098-831a-72b131a81f7d" />
+<img alt="image" src="https://github.com/user-attachments/assets/4c8bdf8d-9808-4098-831a-72b131a81f7d" />
 
 ## Installation
 
