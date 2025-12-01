@@ -1,0 +1,10 @@
+# The name of your extension, which is displayed in the Zed extensions store.
+name = "Xenon"
+# A brief description of your extension.
+description = "A collection of dark themes with vibrant, modern accents for Zed."
+# The version of your extension. It must be a valid semver version.
+version = "0.1.0"
+# The authors of the extension.
+authors = ["Your Name"]
+# A link to the repository where your extension is hosted.
+repository = "https://github.com/your-username/Xenon" # TODO: Change this to your repository URL
