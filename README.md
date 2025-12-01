@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../Logo.png" alt="Xenon Logo" width="200">
+  <img src="/Logo.png" alt="Xenon Logo" width="200">
   <h1>
     Xenon for Zed
   </h1>
